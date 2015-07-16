@@ -1,0 +1,13 @@
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.MainForm.resources
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.csproj.GenerateResource.Cache
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\bin\Debug\DaisyDatabase.exe
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\bin\Debug\DaisyDatabase.pdb
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.exe
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.pdb
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.ClientsForm.resources
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.ClientDetails.resources
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.InvoiceDetails.resources
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.DevicesForm.resources
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.POsForm.resources
+C:\Users\Daisy00\Documents\SharpDevelop Projects\DaisyDatabase\DaisyDatabase\obj\Debug\DaisyDatabase.ReportsForm.resources

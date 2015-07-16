@@ -1,0 +1,9 @@
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.csprojResolveAssemblyReference.cache
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.ClientDetails.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.ClientsForm.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.DevicesForm.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.InvoiceDetails.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.MainForm.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.POsForm.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.ReportsForm.resources
+D:\Programming\CSharp\DaisyDatabase - Copy\DaisyDatabase\obj\Debug\WIPDatabase.csproj.GenerateResource.Cache
